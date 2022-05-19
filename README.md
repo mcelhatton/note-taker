@@ -68,4 +68,4 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 [NOTE TAKER REPO REPO - Click here!]( https://github.com/mcelhatton/note-taker)
   
 ## LINK TO LIVE APPLICATION:<a name="live site"></a>
-[LINK TO LIVE APPLICATION] ( https://protected-mesa-96591.herokuapp.com/notes )
+[LINK TO LIVE APPLICATION]( https://protected-mesa-96591.herokuapp.com/ )
